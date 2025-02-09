@@ -1,4 +1,6 @@
 {
+  "composite": true,
+  "noEmit": false,
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2023"],

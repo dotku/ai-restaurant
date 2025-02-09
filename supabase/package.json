@@ -1,0 +1,12 @@
+{
+  "name": "supabase",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "supabase": "^2.6.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
